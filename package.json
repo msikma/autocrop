@@ -1,5 +1,6 @@
 {
   "name": "@dada78641/autocrop",
+  "description": "Detects the visible area and crop box of a letterboxed image",
   "version": "1.1.0",
   "main": "index.js",
   "type": "module",
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": "",
   "dependencies": {
     "sharp": "^0.33.4"
   }
