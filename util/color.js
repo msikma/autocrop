@@ -1,4 +1,4 @@
-// AutoCrop <https://github.com/msikma/autocrop>
+// @dada78641/AutoCrop <https://github.com/msikma/autocrop>
 // © MIT license
 
 import {clamp, clamp8} from './math.js'
